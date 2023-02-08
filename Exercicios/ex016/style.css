@@ -1,0 +1,21 @@
+*{ 
+   
+}
+body{
+    background-image:linear-gradient(to bottom,#E6E6E8,#5BCAD5);
+}
+p{color: black;}
+main{
+    background-color: #ede022;
+   border-radius: 40px;
+   box-shadow: 10px 10px 10px rgb(94, 94, 94);
+   width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color: #0667b0;
+}
+h2{
+    color: white;
+}
